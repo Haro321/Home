@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haro321.github.io/Home/sitemap.xml
+Sitemap: https://Haro321.github.io/Home/sitemap.xml
