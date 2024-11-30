@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 border-b border-gray-800 pb-8">
           {/* Brand Section */}
           <div>
-            <h3 className="text-2xl font-bold text-white mb-4">Haro Bashar</h3>
+            <h3 className="text-2xl font-bold text-white mb-4">Ali Alalwani</h3>
             <p className="text-gray-400">
               Python Developer specializing in automation and web development solutions.
             </p>
@@ -62,7 +62,7 @@ const Footer = () => {
             <Heart className="w-4 h-4 mx-2 text-red-500" />
             <span>and</span>
             <Coffee className="w-4 h-4 mx-2 text-amber-500" />
-            <span>by Haro Bashar</span>
+            <span>by Ali Alalwani</span>
           </p>
           <p className="flex items-center justify-center text-gray-500 text-sm">
             <Code className="w-4 h-4 mr-2" />
